@@ -1,5 +1,6 @@
 # Sentiment-Analysis-Using-RNN
-Sentiment Analysis for Amazon Fine Food Reviews Using an RNN Model.
+Sentiment Analysis for Amazon Fine Food Reviews Using an RNN Model.<br/>
+<br/>
 In our project, which used the Amazon Fine Food Reviews dataset (https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews), I chose a Recurrent Neural Network (RNN) for 
 sentiment analysis because RNNs are particularly suited for sequential data like text, where understanding word 
 dependencies and contextual information is crucial. RNNs can maintain a hidden state across different time 
